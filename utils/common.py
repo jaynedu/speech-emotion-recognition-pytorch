@@ -4,6 +4,8 @@
 # @FileName: common
 # ---- Description ----
 
+import os
+
 
 class ConfigDict(dict):
     def __init__(self, *args, **kwargs):
@@ -19,3 +21,8 @@ class ConfigDict(dict):
         del self[name]
 
 
+def check_dir(path):
+    if not os.path.exists(path):
+        parent = os.path.split(path)[0]
+        check_dir(parent)
+        os.mkdir(path)
