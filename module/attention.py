@@ -28,6 +28,16 @@ class ScaledDotProductAttention(nn.Module):
         return output, attn
 
 
+class TaylorLinearAttention(nn.Module):
+    ''' Taylor Linear Attention '''
+
+    def __init__(self, attn_dropout=0.1):
+        super().__init__()
+
+    def forward(self, q, k, v, mask=None):
+        pass
+
+
 class MultiHeadAttention(nn.Module):
     ''' Multi-Head Attention module '''
 
