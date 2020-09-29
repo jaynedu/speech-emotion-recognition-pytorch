@@ -6,40 +6,40 @@
 
 
 class ABC:
-    dir = r'E:\Corpus\ABC'
+    dir = r'E:\ABC'
 
 
 class CASIA:
-    dir = r'E:\Corpus\CASIA'
+    dir = r'E:\CASIA'
 
 
 class DES:
-    dir = r'E:\Corpus\DES'
+    dir = r'E:\DES'
 
 
 class eNTERFACE:
-    dir = r'E:\Corpus\eNTERFACE'
+    dir = r'E:\eNTERFACE'
 
 
 class EmoDB:
-    dir = r'E:\Corpus\EmoDB'
+    dir = r'E:\EmoDB'
 
 
 class GEMEP:
-    dir = r'E:\Corpus\GEMEP'
+    dir = r'E:\GEMEP'
 
 
 class IEMOCAP:
-    dir = r'E:\Corpus\IEMOCAP'
+    dir = r'E:\IEMOCAP'
 
 
 class SUSAS:
-    dir = r'E:\Corpus\SUSAS'
+    dir = r'E:\SUSAS'
 
 
 class URDU:
-    dir = r'E:\Corpus\URDU'
+    dir = r'E:\URDU'
 
 
 class VAM:
-    dir = r'E:\Corpus\VAM'
+    dir = r'E:\VAM'

@@ -8,7 +8,7 @@ import os
 from database import Database
 from database import ABC, CASIA, DES, eNTERFACE, EmoDB, GEMEP, IEMOCAP, SUSAS, URDU, VAM
 
-base_dir = r'E:\dataset'
+base_dir = r'E:\__dataset__'
 db = Database(EmoDB.dir)
 db(train_dir=os.path.join(base_dir, 'emodb', 'train'),
    test_dir=os.path.join(base_dir, 'emodb', 'test'),

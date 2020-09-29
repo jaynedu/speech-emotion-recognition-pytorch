@@ -42,8 +42,8 @@ class Database(object):
 
         self.length = len(self.files)
 
-        self.opensmile = 'D:\\openSMILE\\opensmile-2.3.0\\bin\\Win32\\SMILExtract_Release.exe'
-        self.config = r'E:\speech-emotion-recognition-pytorch\database\my93.conf'
+        self.opensmile = 'D:\\opensmile-2.3.0\\bin\\Win32\\SMILExtract_Release.exe'
+        self.config = r'D:\speech-emotion-recognition-pytorch\database\my93.conf'
 
     def __getitem__(self, index):
         return self.files[index], self.emotions[index]
