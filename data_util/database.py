@@ -29,19 +29,13 @@ class Database:
 
 class Extractor(object):
 
-    def __init__(self, root_dir, train_dir, test_dir, config=None, random_seed=666):
+    def __init__(self, root_dir, config=None, random_seed=666):
 
         self.root_dir = root_dir
-
-        utils.check_dir(train_dir)
-        utils.check_dir(test_dir)
-        self.train_dir = train_dir
-        self.test_dir = test_dir
-
         self.random_seed = random_seed
 
         self.opensmile = 'D:\\opensmile-2.3.0\\bin\\Win32\\SMILExtract_Release.exe'
-        self.config = config if config is not None else r'D:\speech-emotion-recognition-pytorch\database\my93.conf'
+        self.config = config if config is not None else r'D:\PycharmProjects\speech-emotion-recognition-pytorch\data_util\my93.conf'
 
     def get_files(self, dir):
         """ Get pairs of 'filepath and label' from data_util path. """
@@ -82,6 +76,7 @@ class Extractor(object):
 
     @utils.catch_exception
     def extract(self, x, y, data_dir, scope='train'):
+        utils.check_dir(data_dir)
         for wav, label in tqdm.tqdm(zip(x, y), desc='Extracting %s features...' % scope.capitalize()):
             filename = os.path.split(wav)[1]
             self._extract(wav, os.path.join(data_dir, filename.split('.')[0] + '_%s.csv' % label))
