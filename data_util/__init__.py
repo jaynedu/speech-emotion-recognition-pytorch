@@ -4,5 +4,4 @@
 # @FileName: __init__.py
 # ---- Description ----
 
-from database.config import *
-from database.db import Database
+

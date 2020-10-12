@@ -52,3 +52,15 @@ def check_dir(path):
         parent = os.path.split(path)[0]
         check_dir(parent)
         os.mkdir(path)
+
+
+def catch_exception(origin_func):
+    def wrapper(self, *args, **kwargs):
+        try:
+            u = origin_func(self, *args, **kwargs)
+            return u
+        except Exception as e:
+            # self.revive() #不用顾虑，直接调用原来的类的方法
+            print(e)
+            sys.exit(1)
+    return wrapper

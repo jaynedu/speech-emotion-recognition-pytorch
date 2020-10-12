@@ -9,7 +9,6 @@ import torch.nn as nn
 from torch.utils import data
 
 
-
 class Trainset(data.Dataset):
     def __init__(self, dir):
         self.dir = dir
