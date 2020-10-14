@@ -29,10 +29,9 @@ class Logger:
     Usage: sys.stdout = Logger(sys.stdout)  # 将输出记录到log
 
     """
-    def __init__(self, stream=sys.stdout, log_name=None):
-        output_dir = "log"
-        if not os.path.exists(output_dir):
-            os.makedirs(output_dir)
+    def __init__(self, stream=sys.stdout, log_dir='log', log_name=None):
+        output_dir = log_dir
+        check_dir(log_dir)
         log_name = log_name if log_name is not None else '{}.log'.format(time.strftime('%Y-%m-%d-%H-%M'))
         filename = os.path.join(output_dir, log_name)
 
@@ -46,55 +45,12 @@ class Logger:
     def flush(self):
         pass
 
-class CheckDir(object):
-    status = ConfigDict(
-        exist=0,
-        not_exist=1,
-        empty=2,
-        full=3,
-        created=4,
-        isdir=5,
-        isfile=6
-    )
-
-    def __init__(self, path):
-        self.path = path
-
-    def create(self):
-        if not os.path.exists(self.path):
-            parent = CheckDir(os.path.split(self.path)[0])
-            parent.create()
-            os.mkdir(self.path)
-        else:
-            return self.status.exist
-        return self.status.created
-
-    def is_exist(self):
-        return True if os.path.exists(self.path) else False
-
-    def is_dir(self):
-        return True if os.path.isdir(self.path) else False
-
-    def is_empty(self):
-        if self.is_exist():
-            if self.is_dir():
-                return len(os.listdir(self.path)) == 0
-            else:
-                return False
-        return False
-
-
 
 def check_dir(path):
     if not os.path.exists(path):
         parent = os.path.split(path)[0]
         check_dir(parent)
         os.mkdir(path)
-
-
-def check_empty(path):
-    content = os.listdir(path)
-    return len(content) == 0
 
 
 def catch_exception(origin_func):

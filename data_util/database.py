@@ -9,10 +9,23 @@ import tqdm
 import os
 import subprocess
 import pandas as pd
+import numpy as np
 from sklearn.model_selection import train_test_split
 
 import utils
 
+EmoDB = utils.ConfigDict(
+    dir=r'E:\EmoDB',
+    emo_dict={
+        'anger': 0,
+        'boredom': 1,
+        'disgust': 2,
+        'fear': 3,
+        'happiness': 4,
+        'neutral': 5,
+        'sadness': 6
+    }
+)
 
 class Database:
     ABC = r'E:\ABC'
@@ -81,15 +94,18 @@ class Extractor(object):
             filename = os.path.split(wav)[1]
             self._extract(wav, os.path.join(data_dir, filename.split('.')[0] + '_%s.csv' % label))
 
+    @staticmethod
     @utils.catch_exception
-    def read(self, data_dir):
+    def read(data_dir, return_array=True):
         """ Read features from csv file extracted by opensmile with my93.conf. """
-        result = []
         filenames = os.listdir(data_dir)
+        features = []
+        labels = []
         for filename in tqdm.tqdm(filenames, desc='Loading data from %s...' % data_dir):
             df = pd.read_csv(os.path.join(data_dir, filename))
             category = filename.split('.')[0].split('_')[-1]
-            result.append([df, category])
-        return result
+            features.append(df.to_numpy() if return_array else df)
+            labels.append(category)
+        return features, labels
 
 

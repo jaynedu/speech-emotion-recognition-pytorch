@@ -6,3 +6,4 @@
 
 from data_util.database import Database
 from data_util.database import Extractor
+from data_util.database import EmoDB
