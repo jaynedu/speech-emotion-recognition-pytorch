@@ -1,0 +1,2 @@
+torch.Size([32, 128])
+torch.Size([32, 448, 256])

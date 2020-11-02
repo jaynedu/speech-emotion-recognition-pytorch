@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
-# @Date    : 2020/9/16 18:44
+# @Date    : 2020/11/2 15:26
 # @Author  : Du Jing
-# @FileName: common
+# @FileName: utils.py
 # ---- Description ----
+
 
 import os
 import sys
@@ -24,11 +25,14 @@ class ConfigDict(dict):
 
 
 class Logger:
-    """把print的部分保存到YYYY-MM-DD-HH-mm.log文件
+    """
+    把print的部分保存到YYYY-MM-DD-HH-mm.log文件
 
-    Usage: sys.stdout = Logger(sys.stdout)  # 将输出记录到log
+    Usage:
+        sys.stdout = Logger(sys.stdout)  # 将输出记录到log
 
     """
+
     def __init__(self, stream=sys.stdout, log_dir='log', log_name=None):
         output_dir = log_dir
         check_dir(log_dir)

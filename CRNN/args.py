@@ -4,18 +4,15 @@
 # @FileName: args.py
 # ---- Description ----
 
-import os
-import data_util
 
-
-database = 'emodb'
-emo_dict = data_util.EmoDB.emo_dict
-root_dir = data_util.EmoDB.dir
-base_dir = r'E:\__dataset__'
-train_dir = os.path.join(base_dir, database, 'train')
-test_dir = os.path.join(base_dir, database, 'test')
-val_dir = os.path.join(base_dir, database, 'val')
-log_dir = './logs'
-
-batch_size = 4
-epochs = 2
+params = {
+    'h': 62,
+    'w': 93,
+    'in_size': 3,  # usually 1, here the same as n_chunk.
+    'kernels': [64, 64, 64],
+    'activation': ['leakyrelu', 'relu', 'gelu'],
+    'dropout': 0.2,
+    'hidden_size': 128,
+    'num_layers': 1,
+    'num_classes': 5
+}
