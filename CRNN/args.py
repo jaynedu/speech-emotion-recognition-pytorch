@@ -9,10 +9,10 @@ params = {
     'h': 62,
     'w': 93,
     'in_size': 3,  # usually 1, here the same as n_chunk.
-    'kernels': [64, 64, 64],
+    'kernels': [64, 128, 256],
     'activation': ['leakyrelu', 'relu', 'gelu'],
     'dropout': 0.2,
-    'hidden_size': 128,
+    'hidden_size': 256,
     'num_layers': 1,
     'num_classes': 5
 }

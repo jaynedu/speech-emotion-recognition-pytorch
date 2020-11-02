@@ -1231,3 +1231,771 @@ Validate: 	Loss 1.606091	UAR 0.200000
 Train: 	Epoch  615	Batch   9	Step   6160	Loss 1.607276	UAR 0.200000	lr 0.000403
 Validate: 	Loss 1.606090	UAR 0.200000
 Train: 	Epoch  616	Batch   9	Step   6170	Loss 1.607276	UAR 0.200000	lr 0.000403
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  617	Batch   9	Step   6180	Loss 1.607276	UAR 0.200000	lr 0.000402
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  618	Batch   9	Step   6190	Loss 1.607276	UAR 0.200000	lr 0.000402
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  619	Batch   9	Step   6200	Loss 1.607276	UAR 0.333333	lr 0.000402
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  620	Batch   9	Step   6210	Loss 1.607276	UAR 0.200000	lr 0.000401
+Validate: 	Loss 1.606089	UAR 0.200000
+Train: 	Epoch  621	Batch   9	Step   6220	Loss 1.607276	UAR 0.250000	lr 0.000401
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  622	Batch   9	Step   6230	Loss 1.607275	UAR 0.250000	lr 0.000401
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  623	Batch   9	Step   6240	Loss 1.607275	UAR 0.250000	lr 0.000400
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  624	Batch   9	Step   6250	Loss 1.607275	UAR 0.250000	lr 0.000400
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  625	Batch   9	Step   6260	Loss 1.607275	UAR 0.250000	lr 0.000400
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  626	Batch   9	Step   6270	Loss 1.607275	UAR 0.250000	lr 0.000399
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  627	Batch   9	Step   6280	Loss 1.607275	UAR 0.250000	lr 0.000399
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  628	Batch   9	Step   6290	Loss 1.607275	UAR 0.250000	lr 0.000399
+Validate: 	Loss 1.606089	UAR 0.200000
+Train: 	Epoch  629	Batch   9	Step   6300	Loss 1.607275	UAR 0.000000	lr 0.000398
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  630	Batch   9	Step   6310	Loss 1.607275	UAR 0.200000	lr 0.000398
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  631	Batch   9	Step   6320	Loss 1.607275	UAR 0.250000	lr 0.000398
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  632	Batch   9	Step   6330	Loss 1.607275	UAR 0.250000	lr 0.000397
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  633	Batch   9	Step   6340	Loss 1.607275	UAR 0.000000	lr 0.000397
+Validate: 	Loss 1.606089	UAR 0.200000
+Train: 	Epoch  634	Batch   9	Step   6350	Loss 1.607276	UAR 0.250000	lr 0.000397
+Validate: 	Loss 1.606093	UAR 0.200000
+Train: 	Epoch  635	Batch   9	Step   6360	Loss 1.607276	UAR 0.200000	lr 0.000397
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  636	Batch   9	Step   6370	Loss 1.607276	UAR 0.250000	lr 0.000396
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  637	Batch   9	Step   6380	Loss 1.607276	UAR 0.250000	lr 0.000396
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  638	Batch   9	Step   6390	Loss 1.607276	UAR 0.200000	lr 0.000396
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  639	Batch   9	Step   6400	Loss 1.607276	UAR 0.000000	lr 0.000395
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  640	Batch   9	Step   6410	Loss 1.607276	UAR 0.200000	lr 0.000395
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  641	Batch   9	Step   6420	Loss 1.607276	UAR 0.250000	lr 0.000395
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  642	Batch   9	Step   6430	Loss 1.607276	UAR 0.200000	lr 0.000394
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  643	Batch   9	Step   6440	Loss 1.607276	UAR 0.200000	lr 0.000394
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  644	Batch   9	Step   6450	Loss 1.607275	UAR 0.250000	lr 0.000394
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  645	Batch   9	Step   6460	Loss 1.607275	UAR 0.333333	lr 0.000393
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  646	Batch   9	Step   6470	Loss 1.607275	UAR 0.200000	lr 0.000393
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  647	Batch   9	Step   6480	Loss 1.607275	UAR 0.000000	lr 0.000393
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  648	Batch   9	Step   6490	Loss 1.607275	UAR 0.200000	lr 0.000393
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  649	Batch   9	Step   6500	Loss 1.607275	UAR 0.250000	lr 0.000392
+Validate: 	Loss 1.606089	UAR 0.200000
+Train: 	Epoch  650	Batch   9	Step   6510	Loss 1.607275	UAR 0.200000	lr 0.000392
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  651	Batch   9	Step   6520	Loss 1.607275	UAR 0.200000	lr 0.000392
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  652	Batch   9	Step   6530	Loss 1.607275	UAR 0.200000	lr 0.000391
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  653	Batch   9	Step   6540	Loss 1.607275	UAR 0.250000	lr 0.000391
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  654	Batch   9	Step   6550	Loss 1.607275	UAR 0.250000	lr 0.000391
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  655	Batch   9	Step   6560	Loss 1.607275	UAR 0.250000	lr 0.000390
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  656	Batch   9	Step   6570	Loss 1.607275	UAR 0.200000	lr 0.000390
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  657	Batch   9	Step   6580	Loss 1.607275	UAR 0.333333	lr 0.000390
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  658	Batch   9	Step   6590	Loss 1.607275	UAR 0.200000	lr 0.000390
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  659	Batch   9	Step   6600	Loss 1.607275	UAR 0.333333	lr 0.000389
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  660	Batch   9	Step   6610	Loss 1.607275	UAR 0.250000	lr 0.000389
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  661	Batch   9	Step   6620	Loss 1.607275	UAR 0.000000	lr 0.000389
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  662	Batch   9	Step   6630	Loss 1.607275	UAR 0.250000	lr 0.000388
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  663	Batch   9	Step   6640	Loss 1.607275	UAR 0.250000	lr 0.000388
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  664	Batch   9	Step   6650	Loss 1.607275	UAR 0.200000	lr 0.000388
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  665	Batch   9	Step   6660	Loss 1.607275	UAR 0.250000	lr 0.000387
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  666	Batch   9	Step   6670	Loss 1.607275	UAR 0.200000	lr 0.000387
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  667	Batch   9	Step   6680	Loss 1.607275	UAR 0.000000	lr 0.000387
+Validate: 	Loss 1.606089	UAR 0.200000
+Train: 	Epoch  668	Batch   9	Step   6690	Loss 1.607275	UAR 0.250000	lr 0.000387
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  669	Batch   9	Step   6700	Loss 1.607274	UAR 0.200000	lr 0.000386
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  670	Batch   9	Step   6710	Loss 1.607274	UAR 0.200000	lr 0.000386
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  671	Batch   9	Step   6720	Loss 1.607274	UAR 0.250000	lr 0.000386
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  672	Batch   9	Step   6730	Loss 1.607274	UAR 0.200000	lr 0.000385
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  673	Batch   9	Step   6740	Loss 1.607275	UAR 0.250000	lr 0.000385
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  674	Batch   9	Step   6750	Loss 1.607275	UAR 0.000000	lr 0.000385
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  675	Batch   9	Step   6760	Loss 1.607274	UAR 0.200000	lr 0.000385
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  676	Batch   9	Step   6770	Loss 1.607274	UAR 0.200000	lr 0.000384
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  677	Batch   9	Step   6780	Loss 1.607274	UAR 0.200000	lr 0.000384
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  678	Batch   9	Step   6790	Loss 1.607274	UAR 0.000000	lr 0.000384
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  679	Batch   9	Step   6800	Loss 1.607274	UAR 0.250000	lr 0.000383
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  680	Batch   9	Step   6810	Loss 1.607274	UAR 0.200000	lr 0.000383
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  681	Batch   9	Step   6820	Loss 1.607274	UAR 0.200000	lr 0.000383
+Validate: 	Loss 1.606089	UAR 0.200000
+Train: 	Epoch  682	Batch   9	Step   6830	Loss 1.607274	UAR 0.000000	lr 0.000383
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  683	Batch   9	Step   6840	Loss 1.607275	UAR 0.250000	lr 0.000382
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  684	Batch   9	Step   6850	Loss 1.607274	UAR 0.000000	lr 0.000382
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  685	Batch   9	Step   6860	Loss 1.607275	UAR 0.333333	lr 0.000382
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  686	Batch   9	Step   6870	Loss 1.607275	UAR 0.250000	lr 0.000382
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  687	Batch   9	Step   6880	Loss 1.607274	UAR 0.200000	lr 0.000381
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  688	Batch   9	Step   6890	Loss 1.607275	UAR 0.333333	lr 0.000381
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  689	Batch   9	Step   6900	Loss 1.607275	UAR 0.250000	lr 0.000381
+Validate: 	Loss 1.606089	UAR 0.200000
+Train: 	Epoch  690	Batch   9	Step   6910	Loss 1.607275	UAR 0.200000	lr 0.000380
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  691	Batch   9	Step   6920	Loss 1.607275	UAR 0.200000	lr 0.000380
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  692	Batch   9	Step   6930	Loss 1.607275	UAR 0.200000	lr 0.000380
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  693	Batch   9	Step   6940	Loss 1.607275	UAR 0.250000	lr 0.000380
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  694	Batch   9	Step   6950	Loss 1.607275	UAR 0.200000	lr 0.000379
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  695	Batch   9	Step   6960	Loss 1.607275	UAR 0.250000	lr 0.000379
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  696	Batch   9	Step   6970	Loss 1.607275	UAR 0.200000	lr 0.000379
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  697	Batch   9	Step   6980	Loss 1.607275	UAR 0.250000	lr 0.000379
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  698	Batch   9	Step   6990	Loss 1.607276	UAR 0.200000	lr 0.000378
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  699	Batch   9	Step   7000	Loss 1.607275	UAR 0.200000	lr 0.000378
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  700	Batch   9	Step   7010	Loss 1.607276	UAR 0.250000	lr 0.000378
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  701	Batch   9	Step   7020	Loss 1.607275	UAR 0.250000	lr 0.000377
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  702	Batch   9	Step   7030	Loss 1.607275	UAR 0.250000	lr 0.000377
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  703	Batch   9	Step   7040	Loss 1.607275	UAR 0.250000	lr 0.000377
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  704	Batch   9	Step   7050	Loss 1.607275	UAR 0.200000	lr 0.000377
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  705	Batch   9	Step   7060	Loss 1.607275	UAR 0.000000	lr 0.000376
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  706	Batch   9	Step   7070	Loss 1.607275	UAR 0.000000	lr 0.000376
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  707	Batch   9	Step   7080	Loss 1.607276	UAR 0.200000	lr 0.000376
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  708	Batch   9	Step   7090	Loss 1.607276	UAR 0.250000	lr 0.000376
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  709	Batch   9	Step   7100	Loss 1.607276	UAR 0.200000	lr 0.000375
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  710	Batch   9	Step   7110	Loss 1.607276	UAR 0.200000	lr 0.000375
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  711	Batch   9	Step   7120	Loss 1.607276	UAR 0.000000	lr 0.000375
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  712	Batch   9	Step   7130	Loss 1.607276	UAR 0.200000	lr 0.000375
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  713	Batch   9	Step   7140	Loss 1.607276	UAR 0.200000	lr 0.000374
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  714	Batch   9	Step   7150	Loss 1.607275	UAR 0.250000	lr 0.000374
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  715	Batch   9	Step   7160	Loss 1.607276	UAR 0.000000	lr 0.000374
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  716	Batch   9	Step   7170	Loss 1.607275	UAR 0.250000	lr 0.000373
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  717	Batch   9	Step   7180	Loss 1.607276	UAR 0.200000	lr 0.000373
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  718	Batch   9	Step   7190	Loss 1.607276	UAR 0.250000	lr 0.000373
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  719	Batch   9	Step   7200	Loss 1.607276	UAR 0.200000	lr 0.000373
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  720	Batch   9	Step   7210	Loss 1.607276	UAR 0.000000	lr 0.000372
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  721	Batch   9	Step   7220	Loss 1.607276	UAR 0.250000	lr 0.000372
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  722	Batch   9	Step   7230	Loss 1.607276	UAR 0.200000	lr 0.000372
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  723	Batch   9	Step   7240	Loss 1.607276	UAR 0.250000	lr 0.000372
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  724	Batch   9	Step   7250	Loss 1.607276	UAR 0.000000	lr 0.000371
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  725	Batch   9	Step   7260	Loss 1.607276	UAR 0.000000	lr 0.000371
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  726	Batch   9	Step   7270	Loss 1.607276	UAR 0.250000	lr 0.000371
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  727	Batch   9	Step   7280	Loss 1.607276	UAR 0.333333	lr 0.000371
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  728	Batch   9	Step   7290	Loss 1.607276	UAR 0.200000	lr 0.000370
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  729	Batch   9	Step   7300	Loss 1.607276	UAR 0.000000	lr 0.000370
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  730	Batch   9	Step   7310	Loss 1.607276	UAR 0.250000	lr 0.000370
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  731	Batch   9	Step   7320	Loss 1.607276	UAR 0.000000	lr 0.000370
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  732	Batch   9	Step   7330	Loss 1.607276	UAR 0.200000	lr 0.000369
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  733	Batch   9	Step   7340	Loss 1.607276	UAR 0.250000	lr 0.000369
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  734	Batch   9	Step   7350	Loss 1.607276	UAR 0.200000	lr 0.000369
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  735	Batch   9	Step   7360	Loss 1.607276	UAR 0.250000	lr 0.000369
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  736	Batch   9	Step   7370	Loss 1.607276	UAR 0.250000	lr 0.000368
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  737	Batch   9	Step   7380	Loss 1.607276	UAR 0.250000	lr 0.000368
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  738	Batch   9	Step   7390	Loss 1.607277	UAR 0.000000	lr 0.000368
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  739	Batch   9	Step   7400	Loss 1.607277	UAR 0.250000	lr 0.000368
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  740	Batch   9	Step   7410	Loss 1.607276	UAR 0.200000	lr 0.000367
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  741	Batch   9	Step   7420	Loss 1.607276	UAR 0.200000	lr 0.000367
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  742	Batch   9	Step   7430	Loss 1.607276	UAR 0.200000	lr 0.000367
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  743	Batch   9	Step   7440	Loss 1.607276	UAR 0.200000	lr 0.000367
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  744	Batch   9	Step   7450	Loss 1.607276	UAR 0.200000	lr 0.000366
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  745	Batch   9	Step   7460	Loss 1.607276	UAR 0.000000	lr 0.000366
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  746	Batch   9	Step   7470	Loss 1.607276	UAR 0.250000	lr 0.000366
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  747	Batch   9	Step   7480	Loss 1.607276	UAR 0.250000	lr 0.000366
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  748	Batch   9	Step   7490	Loss 1.607276	UAR 0.200000	lr 0.000365
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  749	Batch   9	Step   7500	Loss 1.607276	UAR 0.250000	lr 0.000365
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  750	Batch   9	Step   7510	Loss 1.607276	UAR 0.250000	lr 0.000365
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  751	Batch   9	Step   7520	Loss 1.607276	UAR 0.000000	lr 0.000365
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  752	Batch   9	Step   7530	Loss 1.607276	UAR 0.250000	lr 0.000364
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  753	Batch   9	Step   7540	Loss 1.607276	UAR 0.200000	lr 0.000364
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  754	Batch   9	Step   7550	Loss 1.607276	UAR 0.250000	lr 0.000364
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  755	Batch   9	Step   7560	Loss 1.607276	UAR 0.200000	lr 0.000364
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  756	Batch   9	Step   7570	Loss 1.607276	UAR 0.200000	lr 0.000363
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  757	Batch   9	Step   7580	Loss 1.607276	UAR 0.200000	lr 0.000363
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  758	Batch   9	Step   7590	Loss 1.607276	UAR 0.250000	lr 0.000363
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  759	Batch   9	Step   7600	Loss 1.607276	UAR 0.200000	lr 0.000363
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  760	Batch   9	Step   7610	Loss 1.607276	UAR 0.333333	lr 0.000362
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  761	Batch   9	Step   7620	Loss 1.607276	UAR 0.200000	lr 0.000362
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  762	Batch   9	Step   7630	Loss 1.607276	UAR 0.250000	lr 0.000362
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  763	Batch   9	Step   7640	Loss 1.607276	UAR 0.200000	lr 0.000362
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  764	Batch   9	Step   7650	Loss 1.607276	UAR 0.250000	lr 0.000362
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  765	Batch   9	Step   7660	Loss 1.607275	UAR 0.200000	lr 0.000361
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  766	Batch   9	Step   7670	Loss 1.607275	UAR 0.333333	lr 0.000361
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  767	Batch   9	Step   7680	Loss 1.607276	UAR 0.200000	lr 0.000361
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  768	Batch   9	Step   7690	Loss 1.607275	UAR 0.200000	lr 0.000361
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  769	Batch   9	Step   7700	Loss 1.607276	UAR 0.200000	lr 0.000360
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  770	Batch   9	Step   7710	Loss 1.607276	UAR 0.000000	lr 0.000360
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  771	Batch   9	Step   7720	Loss 1.607276	UAR 0.200000	lr 0.000360
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  772	Batch   9	Step   7730	Loss 1.607276	UAR 0.250000	lr 0.000360
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  773	Batch   9	Step   7740	Loss 1.607276	UAR 0.200000	lr 0.000359
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  774	Batch   9	Step   7750	Loss 1.607276	UAR 0.250000	lr 0.000359
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  775	Batch   9	Step   7760	Loss 1.607276	UAR 0.200000	lr 0.000359
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  776	Batch   9	Step   7770	Loss 1.607276	UAR 0.333333	lr 0.000359
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  777	Batch   9	Step   7780	Loss 1.607276	UAR 0.000000	lr 0.000359
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  778	Batch   9	Step   7790	Loss 1.607276	UAR 0.250000	lr 0.000358
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  779	Batch   9	Step   7800	Loss 1.607276	UAR 0.200000	lr 0.000358
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  780	Batch   9	Step   7810	Loss 1.607276	UAR 0.250000	lr 0.000358
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  781	Batch   9	Step   7820	Loss 1.607275	UAR 0.250000	lr 0.000358
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  782	Batch   9	Step   7830	Loss 1.607275	UAR 0.000000	lr 0.000357
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  783	Batch   9	Step   7840	Loss 1.607275	UAR 0.250000	lr 0.000357
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  784	Batch   9	Step   7850	Loss 1.607275	UAR 0.200000	lr 0.000357
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  785	Batch   9	Step   7860	Loss 1.607275	UAR 0.200000	lr 0.000357
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  786	Batch   9	Step   7870	Loss 1.607275	UAR 0.250000	lr 0.000356
+Validate: 	Loss 1.606088	UAR 0.200000
+Train: 	Epoch  787	Batch   9	Step   7880	Loss 1.607275	UAR 0.250000	lr 0.000356
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  788	Batch   9	Step   7890	Loss 1.607275	UAR 0.200000	lr 0.000356
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  789	Batch   9	Step   7900	Loss 1.607275	UAR 0.200000	lr 0.000356
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  790	Batch   9	Step   7910	Loss 1.607275	UAR 0.250000	lr 0.000356
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  791	Batch   9	Step   7920	Loss 1.607275	UAR 0.333333	lr 0.000355
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  792	Batch   9	Step   7930	Loss 1.607275	UAR 0.250000	lr 0.000355
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  793	Batch   9	Step   7940	Loss 1.607275	UAR 0.250000	lr 0.000355
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  794	Batch   9	Step   7950	Loss 1.607275	UAR 0.200000	lr 0.000355
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  795	Batch   9	Step   7960	Loss 1.607275	UAR 0.250000	lr 0.000354
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  796	Batch   9	Step   7970	Loss 1.607276	UAR 0.250000	lr 0.000354
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  797	Batch   9	Step   7980	Loss 1.607275	UAR 0.333333	lr 0.000354
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  798	Batch   9	Step   7990	Loss 1.607275	UAR 0.250000	lr 0.000354
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  799	Batch   9	Step   8000	Loss 1.607275	UAR 0.200000	lr 0.000354
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  800	Batch   9	Step   8010	Loss 1.607275	UAR 0.250000	lr 0.000353
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  801	Batch   9	Step   8020	Loss 1.607275	UAR 0.200000	lr 0.000353
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  802	Batch   9	Step   8030	Loss 1.607275	UAR 0.250000	lr 0.000353
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  803	Batch   9	Step   8040	Loss 1.607276	UAR 0.250000	lr 0.000353
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  804	Batch   9	Step   8050	Loss 1.607276	UAR 0.250000	lr 0.000352
+Validate: 	Loss 1.606089	UAR 0.200000
+Train: 	Epoch  805	Batch   9	Step   8060	Loss 1.607275	UAR 0.250000	lr 0.000352
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  806	Batch   9	Step   8070	Loss 1.607275	UAR 0.250000	lr 0.000352
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  807	Batch   9	Step   8080	Loss 1.607275	UAR 0.250000	lr 0.000352
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  808	Batch   9	Step   8090	Loss 1.607276	UAR 0.250000	lr 0.000352
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  809	Batch   9	Step   8100	Loss 1.607275	UAR 0.250000	lr 0.000351
+Validate: 	Loss 1.606089	UAR 0.200000
+Train: 	Epoch  810	Batch   9	Step   8110	Loss 1.607276	UAR 0.250000	lr 0.000351
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  811	Batch   9	Step   8120	Loss 1.607275	UAR 0.200000	lr 0.000351
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  812	Batch   9	Step   8130	Loss 1.607275	UAR 0.250000	lr 0.000351
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  813	Batch   9	Step   8140	Loss 1.607275	UAR 0.333333	lr 0.000350
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  814	Batch   9	Step   8150	Loss 1.607275	UAR 0.200000	lr 0.000350
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  815	Batch   9	Step   8160	Loss 1.607275	UAR 0.333333	lr 0.000350
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  816	Batch   9	Step   8170	Loss 1.607275	UAR 0.250000	lr 0.000350
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  817	Batch   9	Step   8180	Loss 1.607275	UAR 0.250000	lr 0.000350
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  818	Batch   9	Step   8190	Loss 1.607275	UAR 0.200000	lr 0.000349
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  819	Batch   9	Step   8200	Loss 1.607275	UAR 0.250000	lr 0.000349
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  820	Batch   9	Step   8210	Loss 1.607275	UAR 0.250000	lr 0.000349
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  821	Batch   9	Step   8220	Loss 1.607275	UAR 0.000000	lr 0.000349
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  822	Batch   9	Step   8230	Loss 1.607275	UAR 0.200000	lr 0.000349
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  823	Batch   9	Step   8240	Loss 1.607275	UAR 0.200000	lr 0.000348
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  824	Batch   9	Step   8250	Loss 1.607275	UAR 0.333333	lr 0.000348
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  825	Batch   9	Step   8260	Loss 1.607275	UAR 0.200000	lr 0.000348
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  826	Batch   9	Step   8270	Loss 1.607275	UAR 0.200000	lr 0.000348
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  827	Batch   9	Step   8280	Loss 1.607275	UAR 0.250000	lr 0.000348
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  828	Batch   9	Step   8290	Loss 1.607275	UAR 0.200000	lr 0.000347
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  829	Batch   9	Step   8300	Loss 1.607275	UAR 0.250000	lr 0.000347
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  830	Batch   9	Step   8310	Loss 1.607275	UAR 0.200000	lr 0.000347
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  831	Batch   9	Step   8320	Loss 1.607275	UAR 0.000000	lr 0.000347
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  832	Batch   9	Step   8330	Loss 1.607275	UAR 0.200000	lr 0.000346
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  833	Batch   9	Step   8340	Loss 1.607275	UAR 0.200000	lr 0.000346
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  834	Batch   9	Step   8350	Loss 1.607276	UAR 0.200000	lr 0.000346
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  835	Batch   9	Step   8360	Loss 1.607275	UAR 0.000000	lr 0.000346
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  836	Batch   9	Step   8370	Loss 1.607275	UAR 0.250000	lr 0.000346
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  837	Batch   9	Step   8380	Loss 1.607276	UAR 0.200000	lr 0.000345
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  838	Batch   9	Step   8390	Loss 1.607276	UAR 0.250000	lr 0.000345
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  839	Batch   9	Step   8400	Loss 1.607276	UAR 0.000000	lr 0.000345
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  840	Batch   9	Step   8410	Loss 1.607275	UAR 0.200000	lr 0.000345
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  841	Batch   9	Step   8420	Loss 1.607276	UAR 0.250000	lr 0.000345
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  842	Batch   9	Step   8430	Loss 1.607276	UAR 0.200000	lr 0.000344
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  843	Batch   9	Step   8440	Loss 1.607276	UAR 0.250000	lr 0.000344
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  844	Batch   9	Step   8450	Loss 1.607276	UAR 0.200000	lr 0.000344
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  845	Batch   9	Step   8460	Loss 1.607276	UAR 0.250000	lr 0.000344
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  846	Batch   9	Step   8470	Loss 1.607276	UAR 0.200000	lr 0.000344
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  847	Batch   9	Step   8480	Loss 1.607276	UAR 0.250000	lr 0.000343
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  848	Batch   9	Step   8490	Loss 1.607276	UAR 0.200000	lr 0.000343
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  849	Batch   9	Step   8500	Loss 1.607276	UAR 0.250000	lr 0.000343
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  850	Batch   9	Step   8510	Loss 1.607276	UAR 0.200000	lr 0.000343
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  851	Batch   9	Step   8520	Loss 1.607276	UAR 0.250000	lr 0.000343
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  852	Batch   9	Step   8530	Loss 1.607276	UAR 0.000000	lr 0.000342
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  853	Batch   9	Step   8540	Loss 1.607276	UAR 0.200000	lr 0.000342
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  854	Batch   9	Step   8550	Loss 1.607276	UAR 0.200000	lr 0.000342
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  855	Batch   9	Step   8560	Loss 1.607276	UAR 0.200000	lr 0.000342
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  856	Batch   9	Step   8570	Loss 1.607276	UAR 0.250000	lr 0.000342
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  857	Batch   9	Step   8580	Loss 1.607276	UAR 0.200000	lr 0.000341
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  858	Batch   9	Step   8590	Loss 1.607276	UAR 0.200000	lr 0.000341
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  859	Batch   9	Step   8600	Loss 1.607276	UAR 0.000000	lr 0.000341
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  860	Batch   9	Step   8610	Loss 1.607276	UAR 0.250000	lr 0.000341
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  861	Batch   9	Step   8620	Loss 1.607276	UAR 0.200000	lr 0.000341
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  862	Batch   9	Step   8630	Loss 1.607276	UAR 0.200000	lr 0.000340
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  863	Batch   9	Step   8640	Loss 1.607276	UAR 0.250000	lr 0.000340
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  864	Batch   9	Step   8650	Loss 1.607276	UAR 0.250000	lr 0.000340
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  865	Batch   9	Step   8660	Loss 1.607276	UAR 0.200000	lr 0.000340
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  866	Batch   9	Step   8670	Loss 1.607276	UAR 0.250000	lr 0.000340
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  867	Batch   9	Step   8680	Loss 1.607276	UAR 0.200000	lr 0.000339
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  868	Batch   9	Step   8690	Loss 1.607276	UAR 0.000000	lr 0.000339
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  869	Batch   9	Step   8700	Loss 1.607276	UAR 0.250000	lr 0.000339
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  870	Batch   9	Step   8710	Loss 1.607276	UAR 0.200000	lr 0.000339
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  871	Batch   9	Step   8720	Loss 1.607276	UAR 0.250000	lr 0.000339
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  872	Batch   9	Step   8730	Loss 1.607276	UAR 0.333333	lr 0.000338
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  873	Batch   9	Step   8740	Loss 1.607276	UAR 0.000000	lr 0.000338
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  874	Batch   9	Step   8750	Loss 1.607276	UAR 0.000000	lr 0.000338
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  875	Batch   9	Step   8760	Loss 1.607276	UAR 0.200000	lr 0.000338
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  876	Batch   9	Step   8770	Loss 1.607276	UAR 0.250000	lr 0.000338
+Validate: 	Loss 1.606089	UAR 0.200000
+Train: 	Epoch  877	Batch   9	Step   8780	Loss 1.607276	UAR 0.250000	lr 0.000337
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  878	Batch   9	Step   8790	Loss 1.607276	UAR 0.333333	lr 0.000337
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  879	Batch   9	Step   8800	Loss 1.607276	UAR 0.200000	lr 0.000337
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  880	Batch   9	Step   8810	Loss 1.607276	UAR 0.200000	lr 0.000337
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  881	Batch   9	Step   8820	Loss 1.607276	UAR 0.200000	lr 0.000337
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  882	Batch   9	Step   8830	Loss 1.607276	UAR 0.250000	lr 0.000337
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  883	Batch   9	Step   8840	Loss 1.607276	UAR 0.200000	lr 0.000336
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  884	Batch   9	Step   8850	Loss 1.607276	UAR 0.000000	lr 0.000336
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  885	Batch   9	Step   8860	Loss 1.607276	UAR 0.200000	lr 0.000336
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  886	Batch   9	Step   8870	Loss 1.607276	UAR 0.200000	lr 0.000336
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  887	Batch   9	Step   8880	Loss 1.607276	UAR 0.250000	lr 0.000336
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  888	Batch   9	Step   8890	Loss 1.607276	UAR 0.200000	lr 0.000335
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  889	Batch   9	Step   8900	Loss 1.607276	UAR 0.333333	lr 0.000335
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  890	Batch   9	Step   8910	Loss 1.607276	UAR 0.000000	lr 0.000335
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  891	Batch   9	Step   8920	Loss 1.607276	UAR 0.200000	lr 0.000335
+Validate: 	Loss 1.606093	UAR 0.200000
+Train: 	Epoch  892	Batch   9	Step   8930	Loss 1.607276	UAR 0.200000	lr 0.000335
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  893	Batch   9	Step   8940	Loss 1.607276	UAR 0.250000	lr 0.000334
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  894	Batch   9	Step   8950	Loss 1.607276	UAR 0.200000	lr 0.000334
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  895	Batch   9	Step   8960	Loss 1.607276	UAR 0.200000	lr 0.000334
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  896	Batch   9	Step   8970	Loss 1.607276	UAR 0.250000	lr 0.000334
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  897	Batch   9	Step   8980	Loss 1.607276	UAR 0.000000	lr 0.000334
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  898	Batch   9	Step   8990	Loss 1.607276	UAR 0.250000	lr 0.000334
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  899	Batch   9	Step   9000	Loss 1.607276	UAR 0.200000	lr 0.000333
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  900	Batch   9	Step   9010	Loss 1.607276	UAR 0.250000	lr 0.000333
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  901	Batch   9	Step   9020	Loss 1.607276	UAR 0.200000	lr 0.000333
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  902	Batch   9	Step   9030	Loss 1.607276	UAR 0.250000	lr 0.000333
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  903	Batch   9	Step   9040	Loss 1.607276	UAR 0.250000	lr 0.000333
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  904	Batch   9	Step   9050	Loss 1.607276	UAR 0.200000	lr 0.000332
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  905	Batch   9	Step   9060	Loss 1.607276	UAR 0.200000	lr 0.000332
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  906	Batch   9	Step   9070	Loss 1.607276	UAR 0.200000	lr 0.000332
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  907	Batch   9	Step   9080	Loss 1.607276	UAR 0.200000	lr 0.000332
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  908	Batch   9	Step   9090	Loss 1.607276	UAR 0.250000	lr 0.000332
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  909	Batch   9	Step   9100	Loss 1.607275	UAR 0.250000	lr 0.000331
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  910	Batch   9	Step   9110	Loss 1.607276	UAR 0.250000	lr 0.000331
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  911	Batch   9	Step   9120	Loss 1.607275	UAR 0.200000	lr 0.000331
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  912	Batch   9	Step   9130	Loss 1.607276	UAR 0.250000	lr 0.000331
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  913	Batch   9	Step   9140	Loss 1.607276	UAR 0.333333	lr 0.000331
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  914	Batch   9	Step   9150	Loss 1.607275	UAR 0.250000	lr 0.000331
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  915	Batch   9	Step   9160	Loss 1.607275	UAR 0.333333	lr 0.000330
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  916	Batch   9	Step   9170	Loss 1.607275	UAR 0.200000	lr 0.000330
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  917	Batch   9	Step   9180	Loss 1.607275	UAR 0.250000	lr 0.000330
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  918	Batch   9	Step   9190	Loss 1.607275	UAR 0.200000	lr 0.000330
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  919	Batch   9	Step   9200	Loss 1.607275	UAR 0.250000	lr 0.000330
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  920	Batch   9	Step   9210	Loss 1.607275	UAR 0.200000	lr 0.000330
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  921	Batch   9	Step   9220	Loss 1.607275	UAR 0.250000	lr 0.000329
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  922	Batch   9	Step   9230	Loss 1.607275	UAR 0.200000	lr 0.000329
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  923	Batch   9	Step   9240	Loss 1.607275	UAR 0.200000	lr 0.000329
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  924	Batch   9	Step   9250	Loss 1.607275	UAR 0.200000	lr 0.000329
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  925	Batch   9	Step   9260	Loss 1.607275	UAR 0.200000	lr 0.000329
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  926	Batch   9	Step   9270	Loss 1.607275	UAR 0.000000	lr 0.000328
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  927	Batch   9	Step   9280	Loss 1.607275	UAR 0.250000	lr 0.000328
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  928	Batch   9	Step   9290	Loss 1.607275	UAR 0.250000	lr 0.000328
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  929	Batch   9	Step   9300	Loss 1.607275	UAR 0.250000	lr 0.000328
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  930	Batch   9	Step   9310	Loss 1.607275	UAR 0.250000	lr 0.000328
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  931	Batch   9	Step   9320	Loss 1.607275	UAR 0.000000	lr 0.000328
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  932	Batch   9	Step   9330	Loss 1.607275	UAR 0.200000	lr 0.000327
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  933	Batch   9	Step   9340	Loss 1.607275	UAR 0.200000	lr 0.000327
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  934	Batch   9	Step   9350	Loss 1.607275	UAR 0.250000	lr 0.000327
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  935	Batch   9	Step   9360	Loss 1.607275	UAR 0.200000	lr 0.000327
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  936	Batch   9	Step   9370	Loss 1.607275	UAR 0.333333	lr 0.000327
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  937	Batch   9	Step   9380	Loss 1.607275	UAR 0.200000	lr 0.000327
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  938	Batch   9	Step   9390	Loss 1.607275	UAR 0.200000	lr 0.000326
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  939	Batch   9	Step   9400	Loss 1.607275	UAR 0.200000	lr 0.000326
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  940	Batch   9	Step   9410	Loss 1.607275	UAR 0.000000	lr 0.000326
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  941	Batch   9	Step   9420	Loss 1.607275	UAR 0.000000	lr 0.000326
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  942	Batch   9	Step   9430	Loss 1.607275	UAR 0.200000	lr 0.000326
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  943	Batch   9	Step   9440	Loss 1.607275	UAR 0.333333	lr 0.000325
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  944	Batch   9	Step   9450	Loss 1.607275	UAR 0.250000	lr 0.000325
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  945	Batch   9	Step   9460	Loss 1.607275	UAR 0.200000	lr 0.000325
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  946	Batch   9	Step   9470	Loss 1.607275	UAR 0.250000	lr 0.000325
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  947	Batch   9	Step   9480	Loss 1.607275	UAR 0.250000	lr 0.000325
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  948	Batch   9	Step   9490	Loss 1.607275	UAR 0.250000	lr 0.000325
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  949	Batch   9	Step   9500	Loss 1.607275	UAR 0.000000	lr 0.000324
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  950	Batch   9	Step   9510	Loss 1.607275	UAR 0.200000	lr 0.000324
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  951	Batch   9	Step   9520	Loss 1.607275	UAR 0.200000	lr 0.000324
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  952	Batch   9	Step   9530	Loss 1.607275	UAR 0.200000	lr 0.000324
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  953	Batch   9	Step   9540	Loss 1.607275	UAR 0.250000	lr 0.000324
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  954	Batch   9	Step   9550	Loss 1.607275	UAR 0.200000	lr 0.000324
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  955	Batch   9	Step   9560	Loss 1.607275	UAR 0.250000	lr 0.000323
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  956	Batch   9	Step   9570	Loss 1.607275	UAR 0.250000	lr 0.000323
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  957	Batch   9	Step   9580	Loss 1.607275	UAR 0.250000	lr 0.000323
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  958	Batch   9	Step   9590	Loss 1.607275	UAR 0.200000	lr 0.000323
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  959	Batch   9	Step   9600	Loss 1.607275	UAR 0.250000	lr 0.000323
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  960	Batch   9	Step   9610	Loss 1.607276	UAR 0.333333	lr 0.000323
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  961	Batch   9	Step   9620	Loss 1.607275	UAR 0.333333	lr 0.000322
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  962	Batch   9	Step   9630	Loss 1.607276	UAR 0.250000	lr 0.000322
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  963	Batch   9	Step   9640	Loss 1.607276	UAR 0.000000	lr 0.000322
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  964	Batch   9	Step   9650	Loss 1.607276	UAR 0.250000	lr 0.000322
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  965	Batch   9	Step   9660	Loss 1.607276	UAR 0.000000	lr 0.000322
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  966	Batch   9	Step   9670	Loss 1.607276	UAR 0.200000	lr 0.000322
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  967	Batch   9	Step   9680	Loss 1.607276	UAR 0.200000	lr 0.000321
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  968	Batch   9	Step   9690	Loss 1.607276	UAR 0.200000	lr 0.000321
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  969	Batch   9	Step   9700	Loss 1.607276	UAR 0.200000	lr 0.000321
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  970	Batch   9	Step   9710	Loss 1.607276	UAR 0.250000	lr 0.000321
+Validate: 	Loss 1.606089	UAR 0.200000
+Train: 	Epoch  971	Batch   9	Step   9720	Loss 1.607276	UAR 0.250000	lr 0.000321
+Validate: 	Loss 1.606089	UAR 0.200000
+Train: 	Epoch  972	Batch   9	Step   9730	Loss 1.607276	UAR 0.200000	lr 0.000321
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  973	Batch   9	Step   9740	Loss 1.607275	UAR 0.250000	lr 0.000320
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  974	Batch   9	Step   9750	Loss 1.607275	UAR 0.200000	lr 0.000320
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  975	Batch   9	Step   9760	Loss 1.607275	UAR 0.200000	lr 0.000320
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  976	Batch   9	Step   9770	Loss 1.607275	UAR 0.200000	lr 0.000320
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  977	Batch   9	Step   9780	Loss 1.607275	UAR 0.333333	lr 0.000320
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  978	Batch   9	Step   9790	Loss 1.607275	UAR 0.200000	lr 0.000320
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  979	Batch   9	Step   9800	Loss 1.607275	UAR 0.200000	lr 0.000319
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  980	Batch   9	Step   9810	Loss 1.607275	UAR 0.333333	lr 0.000319
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  981	Batch   9	Step   9820	Loss 1.607275	UAR 0.333333	lr 0.000319
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  982	Batch   9	Step   9830	Loss 1.607275	UAR 0.200000	lr 0.000319
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  983	Batch   9	Step   9840	Loss 1.607275	UAR 0.250000	lr 0.000319
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  984	Batch   9	Step   9850	Loss 1.607275	UAR 0.250000	lr 0.000319
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  985	Batch   9	Step   9860	Loss 1.607275	UAR 0.200000	lr 0.000318
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  986	Batch   9	Step   9870	Loss 1.607275	UAR 0.250000	lr 0.000318
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  987	Batch   9	Step   9880	Loss 1.607275	UAR 0.200000	lr 0.000318
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  988	Batch   9	Step   9890	Loss 1.607275	UAR 0.200000	lr 0.000318
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  989	Batch   9	Step   9900	Loss 1.607275	UAR 0.000000	lr 0.000318
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  990	Batch   9	Step   9910	Loss 1.607275	UAR 0.200000	lr 0.000318
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  991	Batch   9	Step   9920	Loss 1.607275	UAR 0.333333	lr 0.000318
+Validate: 	Loss 1.606092	UAR 0.200000
+Train: 	Epoch  992	Batch   9	Step   9930	Loss 1.607275	UAR 0.250000	lr 0.000317
+Validate: 	Loss 1.606088	UAR 0.200000
+Train: 	Epoch  993	Batch   9	Step   9940	Loss 1.607275	UAR 0.250000	lr 0.000317
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  994	Batch   9	Step   9950	Loss 1.607275	UAR 0.200000	lr 0.000317
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  995	Batch   9	Step   9960	Loss 1.607275	UAR 0.200000	lr 0.000317
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  996	Batch   9	Step   9970	Loss 1.607275	UAR 0.250000	lr 0.000317
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  997	Batch   9	Step   9980	Loss 1.607275	UAR 0.250000	lr 0.000317
+Validate: 	Loss 1.606090	UAR 0.200000
+Train: 	Epoch  998	Batch   9	Step   9990	Loss 1.607275	UAR 0.250000	lr 0.000316
+Validate: 	Loss 1.606091	UAR 0.200000
+Train: 	Epoch  999	Batch   9	Step  10000	Loss 1.607275	UAR 0.200000	lr 0.000316
+Validate: 	Loss 1.606090	UAR 0.200000
+Test: 	Loss 1.604353	UAR 0.200000

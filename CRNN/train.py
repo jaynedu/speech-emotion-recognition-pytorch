@@ -85,6 +85,7 @@ class Build(object):
 
     def train(self, net):
         self.global_step = 0
+        optimal_log = utils.ConfigDict(step=0, uar=0)
         total_loss = 0
         total_num = 0
         criterion = nn.CrossEntropyLoss(reduction='sum').cuda()
@@ -122,9 +123,15 @@ class Build(object):
                 optimizer.step()
                 self.train_writer.add_scalar('loss', total_loss / total_num, self.global_step)
 
-                if self.global_step % 10 == 0:
-                    print("Train: \tEpoch %4d\tBatch %3d\tStep %6d\tLoss %.6f\tUAR %.6f\tlr %.6f" %
-                          (epoch, i, self.global_step, total_loss/total_num, uar, lr))
+                _print = "Train: \tEpoch %4d\tBatch %3d\tStep %6d\tLoss %.6f\tUAR %.6f\tlr %.6f" %\
+                         (epoch, i, self.global_step, total_loss/total_num, uar, lr)
+                _print += "\t\t Optimal Result: \tStep %5d\tUAR %.6f" % (optimal_log.step, optimal_log.uar)
+
+                print(_print)
+                
+                if uar > optimal_log.uar:
+                    optimal_log.uar = uar
+                    optimal_log.step = self.global_step
 
             self.validation(net)
 
