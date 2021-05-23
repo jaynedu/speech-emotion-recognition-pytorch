@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
-# @Date    : 2020/11/2 15:26
-# @Author  : Du Jing
-# @FileName: utils.py
+# @Date      : 2021/5/23 8:35 下午
+# @Author    : Du Jing
+# @Filename  : common.py
 # ---- Description ----
-
+#
 
 import os
 import sys
@@ -50,11 +50,15 @@ class Logger:
         pass
 
 
-def check_dir(path):
-    if not os.path.exists(path):
-        parent = os.path.split(path)[0]
-        check_dir(parent)
-        os.mkdir(path)
+class Checker(object):
+
+    @classmethod
+    def check_path(cls, path):
+        if not os.path.exists(path):
+            parent = os.path.split(path)[0]
+            cls.check_path(parent)
+            os.mkdir(path)
+
 
 
 def catch_exception(origin_func):
