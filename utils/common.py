@@ -35,8 +35,8 @@ class Logger:
 
     def __init__(self, stream=sys.stdout, log_dir='log', log_name=None):
         output_dir = log_dir
-        check_dir(log_dir)
-        log_name = log_name if log_name is not None else '{}.log'.format(time.strftime('%Y-%m-%d-%H-%M'))
+        Checker.check_path(log_dir)
+        log_name = log_name if log_name is not None else '{}.log'.format(time.strftime('%Y-%m-%d_%H-%M'))
         filename = os.path.join(output_dir, log_name)
 
         self.terminal = stream
@@ -58,7 +58,6 @@ class Checker(object):
             parent = os.path.split(path)[0]
             cls.check_path(parent)
             os.mkdir(path)
-
 
 
 def catch_exception(origin_func):
